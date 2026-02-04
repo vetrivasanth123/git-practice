@@ -1,0 +1,43 @@
+The ONLY 4 steps you need to remember (forever)
+1️⃣ Edit / Create files (local)
+
+Example:
+
+Edit README.md
+
+Or create test.py
+
+2️⃣ Commit (local history)
+
+In PyCharm:
+
+Open Commit panel
+
+Select files
+
+Write message:
+
+Updated README
+
+
+Click Commit (or Commit and Push)
+
+📌 Commit = save changes locally
+
+3️⃣ Push (send to GitHub)
+
+Click Push
+
+If already logged in → no popup
+
+Done 🚀
+
+📌 Push = upload to GitHub
+
+4️⃣ Verify (optional but good habit)
+
+Open GitHub in browser
+
+Refresh repo page
+
+See updated file ✔️
