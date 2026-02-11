@@ -1,0 +1,42 @@
+.center-heading {
+    text-align: center;
+}
+.intro {
+    text-align: center;
+}
+.bio {
+text-align: left;}
+body {
+     background-color: white;
+     color:black;
+     }
+
+.dhoni-container {
+    text-align: center;
+}
+.dhoni-top a {
+    color: green !important;
+}
+.dhoni-top {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: green !important;
+}
+
+
+.dhoni-bottom {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+p {
+background-color: lightyellow;}
+
+#para1{
+font-weight:bold;
+font-size: 130%;
+background-color: lightblue}
+.center-heading{
+ border:2px solid Tomato;
+ background-color: lightgreen;
+ }
